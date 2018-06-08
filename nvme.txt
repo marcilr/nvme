@@ -6,8 +6,28 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 NVMe (Non-Volatile Memory Express)
 
 
+NVM Express (NVMe) or Non-Volatile Memory Host Controller
+Interface Specification (NVMHCIS) is an open logical device
+interface specification for accessing non-volatile storage
+media attached via a PCI Express (PCIe) bus.  The acronym
+NVM stands for non-volatile memory, which is often NAND
+flash memory that comes in several physical form factors,
+including solid-state drives (SSDs), PCI Express (PCIe) add
+in cards and other forms such as M.2 cards. NVM Express, as
+a logical device interface, has been designed from the
+ground up to capitalize on the low latency and internal
+parallelism of solid-state storage devices.[1]
+--wikipedia.org/
+
+
 Links
 =====
+[1] Compare: "NVM Express". NVM Express, Inc. Retrieved
+2017-01-24. NVMe™ is designed from the ground up to deliver
+high bandwidth and low latency storage access for current
+and future NVM technologies.
+http://www.nvmexpress.org/
+
 NVM Express
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/NVM_Express
