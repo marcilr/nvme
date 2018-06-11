@@ -20,6 +20,30 @@ parallelism of solid-state storage devices.[1]
 --wikipedia.org/
 
 
+PCIe adapters
+=============
+There are a number of dual M.2 PCIe adapters and even
+a quad by Sedna:
+
+SEDNA - PCIe Quad M.2 SSD SATA 6G 4 Port Raid Adapter
+with HyoperDuo Hard disk acceleration function (SSD not included)
+Supports: 4 SATA-based B key NGFF SSD ( PCIe version SSD not supported )
+HyoperDuo technology for Hard disk acceleration
+Chipset: Marvell 88SE9230 support HyoperDuo
+2-Lane (x2) PCI-Express with transfer rate 5Gb/s Full Duplex channel
+Compliant with Serial ATA 3.0 Specification,Data transfer rate up to 6.0Gb/s
+Backward compatible with SATA1.0/SATA2.0 specification
+Available PCIE 2.0 2X,4X,8X or 16X slot on PC
+Lists linux 2.6 and up support
+price: $129.90
+https://www.newegg.com/Product/Product.aspx?Item=9SIA1JM5062422
+
+SEDNA - PCIe 4X - Quad mSATA SSD RAID Controller Card (RAID 0/1/10)
+Marvell HyperDuo Technology with Low Profile Bracket (SSD not included)
+price: $119.00 (amazon prime - June 11, 2018)
+https://www.amazon.com/SEDNA-Controller-HyperDuo-Technology-included/dp/B01M9IPL6V/ref=sr_1_fkmr0_1?s=electronics&ie=UTF8&qid=1528737963&sr=1-1-fkmr0&keywords=SEDNA+-+PCIe+Quad+M.2+SSD+SATA+6G
+
+
 Links
 =====
 [1] Compare: "NVM Express". NVM Express, Inc. Retrieved
