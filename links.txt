@@ -12,3 +12,8 @@ NVM Express
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/NVM_Express
 
+The Best M.2 Solid-State Drives of 2018
+SSDs are shrinking, thanks to the "gumstick" M.2 format—and,
+in some cases, they're getting a lot faster.  Here's how to
+buy one, with reviews of the the top drives.
+https://www.pcmag.com/roundup/358910/the-best-m-2-solid-state-drives
