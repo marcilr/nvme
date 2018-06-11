@@ -17,3 +17,7 @@ SSDs are shrinking, thanks to the "gumstick" M.2 format—and,
 in some cases, they're getting a lot faster.  Here's how to
 buy one, with reviews of the the top drives.
 https://www.pcmag.com/roundup/358910/the-best-m-2-solid-state-drives
+
+What Is a Low-Profile PCI Card?
+Updated Nov 3, 2017
+https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z000000P6BQSA0
