@@ -3,6 +3,14 @@ Created Mon Jun 11 17:08:34 AKDT 2018
 Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 
+The Build
+
+
+What I'd like is a 1U or 2U box that holds 8x nvme cards.
+This could be on the motherboard or 2x PCIe slots loaded
+with SEDNA - PCIe Quad M.2 SSD SATA 6G 4 Port Raid Adapters.
+
+
 
 Links
 =====
@@ -46,6 +54,12 @@ $1,343 (DS-1102) + $130 (3.3 GHz cpu) + $190 (32GB RAM)
 =1,722
 =$1,722 + 219.00 = $1,941
 https://www.logicsupply.com/ds-1100-s/
+
+
+Links
+=====
+All-Flash NVMe Server Solutions
+https://www.supermicro.com/products/nfo/NVMe.cfm
 
 SEDNA - PCIe Quad M.2 SSD SATA 6G 4 Port Raid Adapter
 with HyoperDuo Hard disk acceleration function
