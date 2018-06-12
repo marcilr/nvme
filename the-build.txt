@@ -1,0 +1,55 @@
+the-build.txt
+Created Mon Jun 11 17:08:34 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+
+Links
+=====
+Logic Supply
+DS-1100-S
+Cincoze Rugged Intel Skylake Fanless Computer
+o Cincoze DS-1101 Skylake PC Barebone - $1,318
+  -1x PCIe slot
+o Cincoze DS-1102 Skylake PC Barebone - $1,343
+  -2x PCIe slot
+o The Intel Core i3-6300T (Skylake) processor
+  provides the performance and efficiency enhancements
+  of Intel's 6th Generation Skylake architecture in a
+  versatile CPU that features HyperThreading™ technology.
+  o 3.3 GHz 6th Generation Skylake Desktop CPU
+  o HyperThreading™ Technology
+  o 35W TDP
+  (+$130.00)
+o Intel Core i7-6700TE (Skylake) 2.4 GHz Processor: LGA1151 <===
+  (+$406.00)   Close
+  Intel Pentium G3220T (Haswell) 2.6 GHz Processor: LGA1150
+  The Intel Core i7-6700TE (Skylake) processor provides the power and
+  flexibility of a Quad-Core i7 at a low 35 W TDP.
+  o 2.4 GHz 6th Generation Skylake Desktop CPU
+  o Quad-Core with Turbo Boost (3.4 GHz)
+  o 35W TDP
+o 32GB 2x 16 GB SO-DIMM DDR4 2133
+  2x $95.00 = $190
+o RC-E8E8-01, Riser Card with 2x PCIex8 Slots
+  Discrete GPU Kit or Riser Card (DS-1102 Platform Only)
+  Riser Card with 2 PCIe x8 Gen 3 Slots
+  +$59.00
+o Has 64 GB mSATA SSD by default, will use ssb for boot.
+o Power Adapter DC 24 V, 120 W - 3-pin Terminal Block (US Power Cord Incl.)
+o 2 Year warranty by default
+o 3 Year warranty
+  +219.00
+
+$1,343 (DS-1102) + $406.00 (2.4G&hz quad-core) + $190 (32GB RAM)
++ $59.00 (Riser Card with 2 PCIe x8 Gen 3 Slots)
+=$1,998
+=$1,998 + 219.00 = $2,356.00
+https://www.logicsupply.com/ds-1100-s/
+
+SEDNA - PCIe Quad M.2 SSD SATA 6G 4 Port Raid Adapter
+with HyoperDuo Hard disk acceleration function
+Brand: SEDNA
+Product Code: SE-PCIE-m2SSDx4-R-MA
+price: $126.90
+http://sedna-shop.com/index.php?route=product/product&product_id=53&search=m.2
