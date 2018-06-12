@@ -112,3 +112,22 @@ HDPLEX 2nd Gen H5 Fanless Chassis
 Looks awesome for storage box.
 https://www.hdplex.com/hdplex-h5-fanless-computer-case.html
 
+Supermicro SuperServers
+https://www.thinkmate.com/systems/supermicro/superserver
+
+1U Supermicro Servers
+Nice breakdown of all configurations
+Items like SuperServer 1019S-WR with 2x PCEe 3.0 x8 looks promising.
+https://www.thinkmate.com/systems/supermicro/superserver/1u
+
+2U Supermicro Servers
+Nice breakdown of all configurations
+https://www.thinkmate.com/systems/supermicro/superserver/2u
+
+SuperServer 1019S-WR
+2x PCEe 3.0 x8 
+https://www.supermicro.com/products/system/1U/1019/SYS-1019S-WR.cfm?gclid=Cj0KCQjw3v3YBRCOARIsAPkLbK6NvF0NjtnCOdzWEbauVZ2AhjPX65yT75cV_K7tcOscZ_Xzq7We7EUaAkKxEALw_wcB
+
+SuperServer 1019S-WR
+Thinkmate configurator (nice)
+https://www.thinkmate.com/system/superserver-1019s-wr
