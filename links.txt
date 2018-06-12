@@ -44,6 +44,11 @@ NVM Express
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/NVM_Express
 
+Rugged HPE Servers
+Coressystems Engineered to Perform
+Nice rack mount boxes
+https://core-systems.com/category/military-grade-products/rugged-servers/
+
 Samsung 850 EVO - 1TB - M.2 SATA III Internal SSD (MZ-N5E1T0BW) <===
 price: $347.95 (amazon prime - June 11, 2018)
 https://www.amazon.com/Samsung-850-EVO-Internal-MZ-N5E1T0BW/dp/B01G844PC0/ref=sr_1_1?s=electronics&ie=UTF8&qid=1528764469&sr=1-1&keywords=m.2+850+1tb
