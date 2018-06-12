@@ -18,6 +18,10 @@ I liked the looks of:
   price: $78.38 (amazon prime - June 12, 2018)
   https://www.amazon.com/FSP-Fanless-Power-Supply-FSP120-50GNF/dp/B004SGS2LQ
 
+The trick would be to find a nice 2U rackmount chassis with 
+4x PCIe slots for a fanless mobo with matching 4x PCIe slots.
+Could make for a hella nvme server.
+
 
 Links
 =====
