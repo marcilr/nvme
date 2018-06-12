@@ -8,9 +8,59 @@ NVMe (Non-Volatile Memory Express) related links
 
 Links
 =====
+Fanless, Linux-friendly Skylake mini-PC has dual M.2 slots
+Make: Aaeon
+Model: Nano-002N
+May 17, 2017 — by Eric Brown
+Looks like only on M.2 is the format I want.
+http://linuxgizmos.com/fanless-linux-friendly-skylake-mini-pc-has-dual-m2-slots/
+
+Gigawatt Miner Shop
+https://www.gigawatt.sg/shop/?gclid=Cj0KCQjwu_jYBRD8ARIsAC3EGCLdMnxtviT-6bsSEpHOZNbkZFAF4g60VNLegnlzqZwNgNWwC1hJI0YaAkfcEALw_wcB
+
+LEX Fanless Servers
+Looked pretty good for a fanless server:
+model: DXF0141
+19" Rackmount 1U Server Barebone, CI770A-6C Intel SkyLake-S Socket CPU Card,
+DP, DVI, HDMI, 2xGbit LAN, 2.5"/3.5" Drive Bay,4xUSB, 4xCOM, 2xPCIex8 /
+2xmini card, Internal Power Adapter 150W
+https://ipc2u.com/catalog/industrial-computer/server/fanless-rackmount-server/
+
+Logic Supply DS-1100-S
+price: $1,282.00 (base)
+The DS-1102 looks very nice.
+o Riser card options for PCI, PCIe x1, PCIe x8, and PCIe x16.
+o Model No.: RC-E8E8-01 - Riser Card 2 x PCIex8
+o Up to 32GB ram
+https://www.logicsupply.com/ds-1100-s/#overview
+
+M.2 SS Cooling
+"Honestly the sata based 850 evo m2 is fine.
+The sata based drives aren't really the ones with overheating problems .
+Its the super fast nvme drives (like the 960) that run much much hotter."
+http://www.tomshardware.com/answers/id-3485000/ssd-cooling.html
+
 NVM Express 
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/NVM_Express
+
+Samsung 850 EVO - 1TB - M.2 SATA III Internal SSD (MZ-N5E1T0BW) <===
+price: $347.95 (amazon prime - June 11, 2018)
+https://www.amazon.com/Samsung-850-EVO-Internal-MZ-N5E1T0BW/dp/B01G844PC0/ref=sr_1_1?s=electronics&ie=UTF8&qid=1528764469&sr=1-1&keywords=m.2+850+1tb
+
+Samsung 860 EVO 2TB M.2 SATA Internal SSD (MZ-N6E2T0BW)   <===
+Form factor: M.2 2280
+price: $540.57 (amazon prime - June 11, 2018)
+https://www.amazon.com/Samsung-860-SATA-Internal-MZ-N6E2T0BW/dp/B07822SVMS/ref=sr_1_3?s=electronics&rps=1&ie=UTF8&qid=1528764888&sr=1-3&keywords=Samsung+860+EVO+2TB+prime&dpID=41O0FmL7xlL&preST=_SX300_QL70_&dpSrc=srch
+
+SEDNA - PCIe Quad M.2 SSD SATA 6G 4 Port Raid Adapter with
+HyoperDuo Hard disk acceleration function (SSD not included)
+Chipset: Marvell 88SE9230 support HyoperDuo
+Direct mounting of 4 x M.2 SSd / Hdd on board ( not included )
+Supports RAID 0, RAID 1, RAID 10,HyoperDuo Safe
+PCI Express 2X Specification Rev. 2.0
+price: $129.90 (newegg - June 11, 2018)
+https://www.newegg.com/Product/Product.aspx?Item=9SIA1JM5062422&ignorebbr=1&nm_mc=KNC-GoogleMKP-PC&cm_mmc=KNC-GoogleMKP-PC-_-pla-_-Accessories+-+Controller+cards+Add-on+cards+Ect-_-9SIA1JM5062422&gclid=Cj0KCQjwu_jYBRD8ARIsAC3EGCI9kBVFF5MvDBjmSnM6powafJfZgjqh1EmdM9_UXQbf5zu9iW65NBoaAqHIEALw_wcB&gclsrc=aw.ds
 
 The Best M.2 Solid-State Drives of 2018
 SSDs are shrinking, thanks to the "gumstick" M.2 format—and,
