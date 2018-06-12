@@ -10,6 +10,13 @@ What I'd like is a 1U or 2U box that holds 8x nvme cards.
 This could be on the motherboard or 2x PCIe slots loaded
 with SEDNA - PCIe Quad M.2 SSD SATA 6G 4 Port Raid Adapters.
 
+On March 29, 2018 Jason Guild reported the purchase of 
+a FlexATX power supply for quite case build.
+
+I liked the looks of:
+  FSP Fanless Flex ATX 120W Power Supply FSP120-50GNF
+  price: $78.38 (amazon prime - June 12, 2018)
+  https://www.amazon.com/FSP-Fanless-Power-Supply-FSP120-50GNF/dp/B004SGS2LQ
 
 
 Links
