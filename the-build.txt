@@ -41,10 +41,10 @@ o 2 Year warranty by default
 o 3 Year warranty
   +219.00
 
-$1,343 (DS-1102) + $406.00 (2.4G&hz quad-core) + $190 (32GB RAM)
+$1,343 (DS-1102) + $130 (3.3 GHz cpu) + $190 (32GB RAM)
 + $59.00 (Riser Card with 2 PCIe x8 Gen 3 Slots)
-=$1,998
-=$1,998 + 219.00 = $2,356.00
+=1,722
+=$1,722 + 219.00 = $1,941
 https://www.logicsupply.com/ds-1100-s/
 
 SEDNA - PCIe Quad M.2 SSD SATA 6G 4 Port Raid Adapter
@@ -53,3 +53,41 @@ Brand: SEDNA
 Product Code: SE-PCIE-m2SSDx4-R-MA
 price: $126.90
 http://sedna-shop.com/index.php?route=product/product&product_id=53&search=m.2
+
+Samsung 860 EVO 1TB M.2 SATA Internal SSD (MZ-N6E1T0BW)
+price: $248.01 (amazon prime - Jun 11, 2018)
+https://www.amazon.com/Samsung-860-SATA-Internal-MZ-N6E1T0BW/dp/B07822Z77M/ref=sr_1_3?s=electronics&ie=UTF8&qid=1528767788&sr=1-3&keywords=1tb+m.2
+
+ADATA SX7000 PCIe 512GB 3D NAND NVMe Gen3x4 M.2
+2280 Solid State Drive (ASX7000NP-512GT-C) by ADATA
+price: $189.99 (amazon prime - June 11, 2018)
+4x $189.99 = $759.96
+https://www.amazon.com/ADATA-SX7000-512GB-Gen3x4-ASX7000NP-512GT-C/dp/B06Y6C25MJ/ref=sr_1_6?s=electronics&ie=UTF8&qid=1528767523&sr=1-6&keywords=adata+m.2
+
+ICY DOCK 5.25 Inch Hot Swap Drive Caddy / Docking
+for 2.5 Inch & 3.5 Inch SATA Hard Drive/SSD - DuoSwap MB971SP-B
+Black
+2.5" & 3.5" Drives to 1 x 5.25" Bay
+SATA I/II/III
+price: $40.30
+https://www.newegg.com/Product/Product.aspx?Item=N82E16817994143&cm_re=hard_drive_caddy-_-17-994-143-_-Product
+
+Logic supply fanless motherboards
+https://www.logicsupply.com/products/components/motherboards/fanless/
+
+
+H1.S features HDPLEX minimalism design and high quality
+15mm thick brushed aluminum faceplate.
+o latest Coffee Lake and Skylake LGA1151 socket, Broadwell
+  and Haswell LGA1150 socket, Ivy Bridge and Sandy Bridge
+  LGA1155 socket, Legacy LGA775 socket, and APU with
+  AM4 APU/AM2/AM3/FM1/FM2 socket.
+o mini-ITX motherboard
+o full height single slot PCIEx1 or PCIEx4 expansion card
+  with optional H1.S Thin-ITX backplate. <=== i.e. could hold storage card
+https://www.hdplex.com/hdplex-h1-s-fanless-computer-case.html
+
+HDPLEX 2nd Gen H5 Fanless Chassis
+Looks awesome for storage box.
+https://www.hdplex.com/hdplex-h5-fanless-computer-case.html
+
