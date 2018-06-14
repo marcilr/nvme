@@ -8,6 +8,9 @@ NVMe (Non-Volatile Memory Express) related links
 
 Links
 =====
+Embedded Fanless System
+http://www.lex.com.tw/products/pdf/1U-Half-Fanless-3I525A,U.pdf
+
 Fanless, Linux-friendly Skylake mini-PC has dual M.2 slots
 Make: Aaeon
 Model: Nano-002N
