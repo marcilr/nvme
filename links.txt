@@ -10,6 +10,7 @@ Links
 =====
 Embedded Fanless System
 http://www.lex.com.tw/products/pdf/1U-Half-Fanless-3I525A,U.pdf
+http://www.lex.com.tw/products/1U-Half-Fanless-3I525A.html
 
 Fanless, Linux-friendly Skylake mini-PC has dual M.2 slots
 Make: Aaeon
