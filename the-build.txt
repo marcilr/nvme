@@ -6,6 +6,20 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 The Build
 
 
+Search for "fanless 1u dual pcie slots": No hits yet
+
+RCS-7220A Expandable 2 PCIe X8
+o Nice fanless small tower
+http://www.ruggedscience.com/industrial/embedded-computers/rcs-7220a-expandable-2-pcie-x8
+
+Expando Duo E416 Embedded Fanless Mini PC
+with i7 Skylake-S and PCI Express 3.0 x16 slot and PCI Express x4 Slot
+o 1 PCIe x4 Slot
+o 1 PCIe x16 Slot
+o Dual nic
+http://www.cappuccinopc.com/Expansion_Slots/Expando_Duo_E416_Mini_PC_with_2_PCI_Express_Expansion_slots.asp
+
+
 The question is that is the perfect fanless 1U with
 dual lan and dual PCIe slots that fit the:
 
