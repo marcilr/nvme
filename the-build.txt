@@ -6,6 +6,22 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 The Build
 
 
+The question is that is the perfect fanless 1U with
+dual lan and dual PCIe slots that fit the:
+
+Make: Sedna 
+Model: SE-PCIE-m2SSDx4-R-MA
+  SEDNA - PCIe Quad M.2 SSD SATA 6G 4 Port Raid Adapter
+  with HyoperDuo Hard disk acceleration function
+  (SSD not included)
+  o PCI Express 2X Specification Rev. 2.0
+  o Supports 4 SATA-based B key NGFF SSD ( PCIe version SSD not supported )
+  o Supports 2230, 2242, 2260 & 2280 size NGFF SSD
+  o Dimensions LxWxH: 4.13" x 0.79" x 4.72"
+  price: $123.90 (amazon - June 14, 2018)
+         $129.90 (newegg - June 14, 2018)
+
+
 What I'd like is a 1U or 2U box that holds 8x nvme cards.
 This could be on the motherboard or 2x PCIe slots loaded
 with SEDNA - PCIe Quad M.2 SSD SATA 6G 4 Port Raid Adapters.
@@ -99,7 +115,6 @@ https://www.newegg.com/Product/Product.aspx?Item=N82E16817994143&cm_re=hard_driv
 
 Logic supply fanless motherboards
 https://www.logicsupply.com/products/components/motherboards/fanless/
-
 
 H1.S features HDPLEX minimalism design and high quality
 15mm thick brushed aluminum faceplate.
