@@ -25,6 +25,7 @@ o 1x PCIe Express x16 slot
 o 8x USB 3.0
 o DVI-I/ DVI-D/ DisplayPort Interface,
   up to 3 independent 4K displays(DisplayPort only)
+o Optional 2U rackmount.
 price: $1,258.00 (June 20, 2018)
 http://www.cappuccinopc.com/embedded-systems/Echo236FE-i7-fanless-mini-pc-with-PCIe-Express-x16-slot.asp#buy
 
