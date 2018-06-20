@@ -52,6 +52,23 @@ high bandwidth and low latency storage access for current
 and future NVM technologies.
 http://www.nvmexpress.org/
 
+Gigabyte Z170X-SOC
+triple-M.2 motherboard
+https://www.pcper.com/reviews/Storage/Triple-M2-Samsung-950-Pro-Z170-PCIe-NVMe-RAID-Tested-Why-So-Snappy
+
+Mako M.2 NVMe RAID carrier board
+The Mako is a PCI Express carrier board for up to
+four high-speed M.2 NVMe SSDs [not included],
+comprising a super high-speed disk drive [NVMe RAID]
+with up to 8TB of storage capacity and read / write
+speeds of up to 6GB/sec.
+o Windows – 7, 8, 10, Server 2012
+o Linux – standard distributions, kernels 4.x and above
+o OS standard NVMe driver (available from NVM Express website)
+o PCIe Gen 3.0 x8 slot
+o Up to four M.2 NVMe SSDs (PCIe Gen 3.0 x4)   <===
+https://edt.com/product/mako/
+
 NVM Express
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/NVM_Express
