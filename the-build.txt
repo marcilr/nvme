@@ -8,6 +8,26 @@ The Build
 
 Search for "fanless 1u dual pcie slots": No hits yet
 
+Echo 77FE Fanless Mini PC with x16 PCIe Express Slot
+o 1 PCIe x16 Expansion Slot (Max Card Dimension: 4.2"(H) x 7.9"(D) )
+o 3 Display Support: DVI-D/ HDMI, & VGA, 2 Display Ports
+o 2 DDR3 1066/ 1333/ 1600 MHz or DDR3L 1066/ 1333 MHz SO-DIMM, up to 16GB
+o 1 PCIe x16 Slot Max Card Dimension:
+  4.2"(H) x 7.9"(D)
+NOTE: Only 16GB max ram
+price: $1,275.00
+
+Echo 236FE i7 Fanless Mini PC - An Embedded System          <===
+with i7 Skylake-S / Kaby Lake and with PCIe Express x16 slot
+o Fanless
+o Supports 32GB RAM
+o 1x PCIe Express x16 slot
+o 8x USB 3.0
+o DVI-I/ DVI-D/ DisplayPort Interface,
+  up to 3 independent 4K displays(DisplayPort only)
+price: $1,258.00 (June 20, 2018)
+http://www.cappuccinopc.com/embedded-systems/Echo236FE-i7-fanless-mini-pc-with-PCIe-Express-x16-slot.asp#buy
+
 RCS-7220A Expandable 2 PCIe X8
 o Nice fanless small tower
 http://www.ruggedscience.com/industrial/embedded-computers/rcs-7220a-expandable-2-pcie-x8
