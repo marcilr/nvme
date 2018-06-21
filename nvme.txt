@@ -6,6 +6,143 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 NVMe (Non-Volatile Memory Express)
 
 
+Requirements:
+o fanless
+o ram: up to 256GB ECC registered would rock
+o 2x GbE lan
+o 1-2 PCIe 3.0 slots
+o VGA and HDMI
+
+
+Echo 236FE   <=== No optical drive
+==========
+i7 Fanless Mini PC - An Embedded System
+with i7 Skylake-S / Kaby Lake and with PCIe Express x16 slot
+o Fanless
+o cpu: 7th and 6th Generation Intel Core i7 Mobile Processor (SkyLake-S / Kaby Lake)
+o ram: Up to 32GBDDR4 2133MHz SO-DIMM
+o chipset: Intel C236
+o 1x PCIe x16 expansion slot
+o lan: 2x GbE, Intel I219LM, Intel I21
+o SATA: 2 SATA III (6Gbps)
+o video: - DVI-I : Up to 1920 x 1080 @ 60Hz
+         - DVI-D: Up to 1920 x 1080 @ 60Hz
+         - DisplayPort: Up to 4096 x 2304 @ 60Hz
+o DVI-I/ DVI-D/ DisplayPort Interface,
+  up to 3 independent 4K displays(DisplayPort only)
+o audio: Realtek® ALC892, 5.1 Channel HD Audio
+o USB: 8 USB 3.0 (External)
+       1 USB 2.0 (Internal)
+o Dimensions: 10.2" x 8.5" x 3.1"
+price: $1,258 (cappuccinopc.com - June 20, 2018)
+A truly fine looking unit
+http://www.cappuccinopc.com/embedded-systems/Echo236FE-i7-fanless-mini-pc-with-PCIe-Express-x16-slot.asp
+
+
+Our Fanless Mini PC (Industrial / Embedded / Rugged)
+http://www.cappuccinopc.com/solutions/fanless_mini_pc
+
+Mica 2750 Fanless PC <=== Greate system, only lacks storage
+o Intel Atom C2750 8-Core processor
+o Support 32GB and Up to 64GB Memory
+o Fanless
+o Up to 64GB ECC SO-DIMM memory
+o 2x USB 3.0
+o 4x Intel I354 built-in port GbE controllers
+o 1x VGA
+o 1x COM Port
+http://www.cappuccinopc.com/Mica_2750_Fanless_Mini_itx_Computer_Small_Mini_Server_with_32GB_64GB_RAM-Memory.asp
+
+LPC-862    <=== Likely not ECC
+o 2x PCIe
+o Up top 32GB ram
+https://www.spartonre.com/littlepcs/rugged-fanless/lpc-862-rugged-fanless-mini-pc-dual-removable-drives-expansion-slots/
+
+DS-1101          <===
+o 1x PCIe slot
+o Up to 32GB max
+http://www.cincoze.com/goods_info.php?id=109
+
+DS-1102         <===
+make: chcoze    <=== All are non-ECC
+o cpu: 6th-Gen Intel Core i3 / i5 / i7 Socket-type CPU (LGA1151)
+  Lots supported by this looks good:
+  Intel Core i7-6700TE Processor (8M Cache, up to 3.40 GHz, 35W TDP)
+  4-core, 14nm, ~$303
+  https://ark.intel.com/products/88201/Intel-Core-i7-6700TE-Processor-8M-Cache-up-to-3_40-GHz 
+   or
+  Intel Core i7-6700 Processor (8M Cache, up to 4.00 GHz, 65W TDP)
+  4-core, 14nm, ~$303-$312
+  https://ark.intel.com/products/88196/Intel-Core-i7-6700-Processor-8M-Cache-up-to-4_00-GHz
+o chipset: Intel Q170
+o Up to 32GB ram un-buffered and non-ECC
+o 2x PCIe slots
+o 2x GbE, Intel I219LM, Intel I210AT 
+o Dimensions: 227 x 261 x 128 mm, 8.94" x 10.6" x 5.04"
+o Material: Extruded aluminum
+
+PCI-Expansion Mini-ITX   <=== Not fanless
+MITXPC
+Embedded System Solutions
+Cases / Enclosures › PCI-Expansion Mini-ITX
+NOTE: *Not fanless*
+https://mitxpc.com/products.php?cat=47
+
+AEON BOXER-6839   <=== non-ECC
+o Up to 32GB non-ECC
+o 1x x4 PCIe
+http://www.aaeon.com/en/p/machinevision-box-pc-boxer-6839
+
+MITXPC Intel Atom C2558                                 <=== Lacks PCIe               
+o 4x Intel I354 GbE and 1x Realtek 8211E-PHY for IPMI
+o IMPI
+o Up to 64GB ECC ram max
+o Intel Atom C2558 Quad Core Processor
+o BMC integrated Aspeed AST2400 Video
+o 4GB DDR3 ECC Memory Included; 64GB MAX
+o 4x Intel I354 Gigabit Ethernet
+o Realtek 8211E-PHY, IPMI dedicated LAN
+o Supports TPM 1.2
+o Silent, Fanless Mini Server
+price: $499 (amazon - June 20, 2018)
+NOTE: Lacks PCIe!
+https://www.amazon.com/MITXPC-Fanless-Network-Server-MES-A1SRI2558F/dp/B01G62SBL0
+https://mitxpc.com/proddetail.php?prod=MES-A1SRI2558F
+
+
+Echo 236FE i7
+o 1x PCIe x16
+o 32GB max
+price: $1,258 (cappuccinopc.com - Juen 20, 2018)
+http://www.cappuccinopc.com/embedded-systems/Echo236FE-i7-fanless-mini-pc-with-PCIe-Express-x16-slot.asp
+
+Echo 77FE
+o 1x PCIe x16
+o 16GB max
+http://www.cappuccinopc.com/Echo_77FE_Fanless_Mini_PC_with_x16_PCIe_Express_Slot.asp
+
+RCS-9220A Skylake Expandable PCIe X8 2-Bay Fanless Computer   <===
+o 2 PCIe x8
+o Up to 32GB ram
+http://www.ruggedscience.com/industrial/embedded-computers/rcs-9220a-skylake-expandable-pcie-x8-2-bay-fanless-computer
+
+Nuvo-5026E Series (New!)
+o 2 PCIe x8
+o Up to 32GB ram
+https://www.neousys-tech.com/en/product/feature/mezio/nuvo-5026e-dual-pcie-fanless-controller#specification
+
+Quiet PC Mamba Fanless Media PC
+o 3 x Low Profile PCIe x16 (PCIe 3.0)
+o Up to 32TGB ram
+https://www.quietpc.com/sys-mamba
+
+PC LG-P970FE
+o 1x PCIe x16
+o Up to 32GB max
+http://www.logisysus.com/catalog/lg-p900f-series/fanless-pc-lg-p970fe-pcie-x16-slot-6th-gen-i7-skylake-h-display-4k-6v-36v-ignition-control-sim-card-and-dual-nic
+
+
+
 NVM Express (NVMe) or Non-Volatile Memory Host Controller
 Interface Specification (NVMHCIS) is an open logical device
 interface specification for accessing non-volatile storage
