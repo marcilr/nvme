@@ -8,6 +8,10 @@ NVMe (Non-Volatile Memory Express) related links
 
 Links
 =====
+Casetronic
+Nice series of fanless cases
+http://www.casetronic.com/corporates/19-c380.html
+
 Embedded Fanless System
 http://www.lex.com.tw/products/pdf/1U-Half-Fanless-3I525A,U.pdf
 http://www.lex.com.tw/products/1U-Half-Fanless-3I525A.html
@@ -18,6 +22,9 @@ Model: Nano-002N
 May 17, 2017 — by Eric Brown
 Looks like only on M.2 is the format I want.
 http://linuxgizmos.com/fanless-linux-friendly-skylake-mini-pc-has-dual-m2-slots/
+
+Fully Silent PCs
+https://www.fullysilentpcs.com/
 
 Gigawatt Miner Shop
 https://www.gigawatt.sg/shop/?gclid=Cj0KCQjwu_jYBRD8ARIsAC3EGCLdMnxtviT-6bsSEpHOZNbkZFAF4g60VNLegnlzqZwNgNWwC1hJI0YaAkfcEALw_wcB
